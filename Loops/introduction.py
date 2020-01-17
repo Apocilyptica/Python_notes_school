@@ -1,0 +1,2 @@
+# for in loops will go thru all data in a data structure without having to keep track of how many items are in it, for example if there is 256 items in a list the loop will only go thru it 256 times.
+# a while loop will go as many times as you declare a stop condition, you can make an infinite loop
