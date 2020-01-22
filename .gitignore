@@ -1,2 +1,7 @@
 venv
 .vscode
+.pytest_cache
+flask_env
+__pycache__
+app.sqlite
+python_env
